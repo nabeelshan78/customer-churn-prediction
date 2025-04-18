@@ -101,6 +101,8 @@ The objective is to predict whether a customer will churn or not, using structur
 ## 🔬 Model Comparison
 
 Below is a comparative analysis of various machine learning models evaluated using cross-validation:
+![image](https://github.com/user-attachments/assets/2003b2af-f01b-41d9-8c03-b1d60f098d53)
+
 
 | Model              | Train Accuracy | CV Accuracy | Train F1 Score | CV F1 Score | Train ROC AUC | CV ROC AUC |
 |--------------------|----------------|-------------|----------------|-------------|----------------|-------------|
